@@ -14,6 +14,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/Prajanthkumar/java/tree/master/0464-can-i-win) |
 | [2159-two-out-of-three](https://github.com/Prajanthkumar/java/tree/master/2159-two-out-of-three) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Prajanthkumar/java/tree/master/2659-number-of-even-and-odd-bits) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Prajanthkumar/java/tree/master/3676-smallest-number-with-all-set-bits) |
@@ -24,5 +25,22 @@
 ## Math
 |  |
 | ------- |
+| [0464-can-i-win](https://github.com/Prajanthkumar/java/tree/master/0464-can-i-win) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Prajanthkumar/java/tree/master/3676-smallest-number-with-all-set-bits) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Prajanthkumar/java/tree/master/0464-can-i-win) |
+## Memoization
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Prajanthkumar/java/tree/master/0464-can-i-win) |
+## Game Theory
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Prajanthkumar/java/tree/master/0464-can-i-win) |
+## Bitmask
+|  |
+| ------- |
+| [0464-can-i-win](https://github.com/Prajanthkumar/java/tree/master/0464-can-i-win) |
 <!---LeetCode Topics End-->
