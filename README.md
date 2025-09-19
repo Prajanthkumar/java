@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/Prajanthkumar/java/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2048-build-array-from-permutation](https://github.com/Prajanthkumar/java/tree/master/2048-build-array-from-permutation) |
 | [2159-two-out-of-three](https://github.com/Prajanthkumar/java/tree/master/2159-two-out-of-three) |
 ## Hash Table
