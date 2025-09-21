@@ -8,11 +8,13 @@
 | [2048-build-array-from-permutation](https://github.com/Prajanthkumar/java/tree/master/2048-build-array-from-permutation) |
 | [2159-two-out-of-three](https://github.com/Prajanthkumar/java/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Prajanthkumar/java/tree/master/2308-divide-array-into-equal-pairs) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Prajanthkumar/java/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [2159-two-out-of-three](https://github.com/Prajanthkumar/java/tree/master/2159-two-out-of-three) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Prajanthkumar/java/tree/master/2308-divide-array-into-equal-pairs) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Prajanthkumar/java/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -50,6 +52,7 @@
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/Prajanthkumar/java/tree/master/2308-divide-array-into-equal-pairs) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/Prajanthkumar/java/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
