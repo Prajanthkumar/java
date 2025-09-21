@@ -50,4 +50,8 @@
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/Prajanthkumar/java/tree/master/2308-divide-array-into-equal-pairs) |
+## String
+|  |
+| ------- |
+| [0742-to-lower-case](https://github.com/Prajanthkumar/java/tree/master/0742-to-lower-case) |
 <!---LeetCode Topics End-->
